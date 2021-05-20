@@ -1,7 +1,7 @@
 $(function(){
 
 	$.ajax({
-		url:'https://api.b7web.com.br/cinema/',
+		url:'https://alunos.b7web.com.br/cinema/',
 		type:'GET',
 		dataType:'json',
 		beforeSend:function(){
